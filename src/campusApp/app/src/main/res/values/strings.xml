@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">campusApp</string>
+    <string name="home_title">Home</string>
+    <string name="wrong_login_input">"Wrong username or password"</string>
+    <string name="empty_usernameOrPassword">"Please fill in username and password!"</string>
+    <string name="already_used_username">"This username is already used!"</string>
+    <string name="short_username">"Username must be at least 3 characters long!"</string>
+    <string name="short_password">"Password must be at least 8 characters long!"</string>
+    <string name="zur_ck">back</string>
+    <string name="Search_LectureTextViewStringBase">Module </string>
+    <string name="Search_LectureInstanceTextViewStringBase">Termine und Parallelgruppen </string>
+    <string name="Search_initialEditText">Suchbegriff</string>
+    <string name="RemoveFromMyLectures">remove from My Lectures</string>
+    <string name="AddToMyLectures">add to My Lectures</string>
+    <string name="Lecture_removeFromMyLectures">Aus \'Meine Veranstaltungen\' entfernen</string>
+    <string name="Lecture_AddToMyLectures">Zu \'Meine Veranstaltungen\' hinzufügen</string>
+    <string name="RemoveFromCalendar">Aus Kalender entfernen</string>
+    <string name="AddToCalendar">Zum Kalendar hinzufügen</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="canteen_options">
+        <item>Mensa Lahnberge</item>
+        <item>Mensa Erlenring</item>
+        <item>Bistro</item>
+        <item>Mos Diner</item>
+    </string-array>
+    <string-array name="mensa_time_ranges">
+        <item>Heute</item>
+        <item>Morgen</item>
+        <item>Diese Woche</item>
+        <item>Nächste Woche</item>
+    </string-array>
+</resources>

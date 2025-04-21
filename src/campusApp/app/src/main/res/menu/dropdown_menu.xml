@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id ="@+id/item1"
+        android:icon ="@drawable/ic_menu_icon"
+        android:title="mainMenu"
+        app:showAsAction="ifRoom" >
+
+        <menu>
+
+            <item android:id="@+id/home"
+                android:title="Home"/>
+
+            <item android:id="@+id/myEvents"
+                android:title="Meine Veranstaltungen"/>
+
+            <item android:id="@+id/calendar"
+                android:title="Kalender"/>
+
+            <item android:id="@+id/mensa"
+                android:title="Mensa"/>
+
+            <item android:id="@+id/mapCardView"
+                android:title="Map"/>
+
+            <item android:id="@+id/search"
+                android:title="Suche"/>
+        </menu>
+    </item>
+
+</menu>
